@@ -7,7 +7,7 @@
 5. Push the code to a new branch and open a pull request saying "Closes #..." (referencing your issue)
 6. See that an action running tests is failing
 7. Fix the code to make tests pass
-8. Add your name to the CONTRIBUTORS file
+8. Add your GitHub login (name) to the CONTRIBUTORS file
 9. Push the code again and check that the tests are green
 10. Wait for the PR to be approved and merge it
 
