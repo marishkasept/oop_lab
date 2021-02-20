@@ -2,3 +2,5 @@
 target/
 .idea/
 venv/
+/.vs/slnx.sqlite
+*.vs
