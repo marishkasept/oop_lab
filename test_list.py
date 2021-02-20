@@ -16,8 +16,6 @@ class TestListMethods(unittest.TestCase):
 
     def test_maria_martynova_fi_93(self):
         self.assertEqual(len([0]), 1)
-
-    def test_maria_martynova_fi_93_2(self):
         self.assertEqual(len([1, 1]), 2)
 
 
