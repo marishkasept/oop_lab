@@ -15,7 +15,6 @@ namespace Unit_test_oop1
         [Test]
         public void Test1()
         {
-            //var bez = new Bezier_curve();
             double[] result = new double[12];
             double[] coordinates = new double[] { 1, 1, 2, 2, 3, 1, 4, 2 };
             Bezier_curve.Cubic_curve(coordinates, 6, result);
@@ -26,5 +25,22 @@ namespace Unit_test_oop1
                 Assert.IsTrue(Math.Abs(expected[i] - result[i]) < 0.0001d);
             }
         }
+
+        [Test]
+        public void Test2()
+        {
+            var result = Bezier_curve.binom_coef(1);
+            double expected = 3;
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void Test3()
+        {
+            var result = Bezier_curve.Bernstein(0, 0.4);
+            var expected = 0.216;
+            Assert.IsTrue(Math.Abs(expected - result) < 0.0001d);
+        }
+
     }
 }

@@ -17,7 +17,7 @@ public class Bezier_curve
     6.0
     };
 
-    private static double binom_coef(int i)
+    public static double binom_coef(int i)
     {
         double binom;
         double a1 = factorial_list[3];
