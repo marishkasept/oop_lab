@@ -1,0 +1,12 @@
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/bin/Debug/netcoreapp3.1/oop_lab1.deps.json
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/bin/Debug/netcoreapp3.1/oop_lab1.runtimeconfig.json
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/bin/Debug/netcoreapp3.1/oop_lab1.runtimeconfig.dev.json
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/bin/Debug/netcoreapp3.1/oop_lab1.dll
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/bin/Debug/netcoreapp3.1/oop_lab1.pdb
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/obj/Debug/netcoreapp3.1/oop_lab1.csprojAssemblyReference.cache
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/obj/Debug/netcoreapp3.1/oop_lab1.AssemblyInfoInputs.cache
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/obj/Debug/netcoreapp3.1/oop_lab1.AssemblyInfo.cs
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/obj/Debug/netcoreapp3.1/oop_lab1.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/obj/Debug/netcoreapp3.1/oop_lab1.dll
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/obj/Debug/netcoreapp3.1/oop_lab1.pdb
+/Users/mac/Documents/gl/oop_lab1/oop_lab1/obj/Debug/netcoreapp3.1/oop_lab1.genruntimeconfig.cache
