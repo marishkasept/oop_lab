@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "oop_lab1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/oop_lab1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/oop_lab1.dll": {}
+        }
       }
     }
   },
@@ -4563,13 +4573,19 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "oop_lab1/1.0.0": {
+      "type": "project",
+      "path": "../oop_lab1/oop_lab1.csproj",
+      "msbuildProject": "../oop_lab1/oop_lab1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.16.1"
+      "NUnit3TestAdapter >= 3.16.1",
+      "oop_lab1 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4600,7 +4616,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/mac/Documents/gl/oop_lab1/oop_lab1/oop_lab1.csproj": {
+              "projectPath": "/Users/mac/Documents/gl/oop_lab1/oop_lab1/oop_lab1.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
