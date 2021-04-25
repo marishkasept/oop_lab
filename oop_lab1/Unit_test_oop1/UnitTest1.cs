@@ -39,7 +39,7 @@ namespace Unit_test_oop1
         [Test]
         public void Test_Binomial_coef()
         {
-            var result = Bezier_curve.get_binom_coef(1);
+            var result = Math_Utilities.binom_coef(1);
             double expected = 3;
             Assert.AreEqual(expected, result);
         }
@@ -47,7 +47,7 @@ namespace Unit_test_oop1
         [Test]
         public void Test_Bernstein()
         {
-            var result = Bezier_curve.get_Bernstein(0, 0.4);
+            var result = Math_Utilities.Bernstein(0, 0.4);
             var expected = 0.216;
             Assert.IsTrue(Math.Abs(expected - result) < 0.0001d);
         }
@@ -55,7 +55,7 @@ namespace Unit_test_oop1
         [Test]
         public void Test_factorial()
         {
-            var result = Bezier_curve.get_factorial(3);
+            var result = Math_Utilities.factorial(3);
             var expected = 6;
             Assert.AreEqual(expected, result);
         }
