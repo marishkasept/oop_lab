@@ -1,0 +1,12 @@
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/bin/Debug/netcoreapp3.1/Lab3_Multithreading.deps.json
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/bin/Debug/netcoreapp3.1/Lab3_Multithreading.runtimeconfig.json
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/bin/Debug/netcoreapp3.1/Lab3_Multithreading.runtimeconfig.dev.json
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/bin/Debug/netcoreapp3.1/Lab3_Multithreading.dll
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/bin/Debug/netcoreapp3.1/Lab3_Multithreading.pdb
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/obj/Debug/netcoreapp3.1/Lab3_Multithreading.csprojAssemblyReference.cache
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/obj/Debug/netcoreapp3.1/Lab3_Multithreading.AssemblyInfoInputs.cache
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/obj/Debug/netcoreapp3.1/Lab3_Multithreading.AssemblyInfo.cs
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/obj/Debug/netcoreapp3.1/Lab3_Multithreading.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/obj/Debug/netcoreapp3.1/Lab3_Multithreading.dll
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/obj/Debug/netcoreapp3.1/Lab3_Multithreading.pdb
+/Users/mac/Documents/gl/Lab3_Multithreading/Lab3_Multithreading/obj/Debug/netcoreapp3.1/Lab3_Multithreading.genruntimeconfig.cache
